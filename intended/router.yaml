@@ -1,0 +1,11 @@
+# Intended State — Cisco Router 4000 series
+# แก้ให้ตรงกับที่อาจารย์กำหนด
+
+hostname: Router
+
+interfaces:
+  GigabitEthernet0/0/0:
+    admin_up: true
+    ipv4:
+      address: 192.168.1.10
+      prefix: 24
