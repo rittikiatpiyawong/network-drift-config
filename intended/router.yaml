@@ -1,5 +1,4 @@
 # Intended State — Cisco Router 4000 series
-# แก้ให้ตรงกับที่อาจารย์กำหนด
 
 hostname: Router
 
